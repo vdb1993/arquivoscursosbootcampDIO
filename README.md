@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre meditação, estruturar o
 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como a meditação pode aliviar o estresse no trabalho
 
-
+https://github.com/vdb1993/arquivoscursosbootcampDIO/blob/main/Ebook%20-%20medita%C3%A7ao%20no%20trabalho%20Vanessa%20Brandao.pdf
 
 💭 Reflexão
 Foi otimo criar esse e-book, minha primeira experiencia produzindo conteudo com o suporte da IA
